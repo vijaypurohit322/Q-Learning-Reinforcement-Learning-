@@ -21,6 +21,7 @@ So there are a total of 25 x 4 x 5 = 500 possible states that describe our world
 
 For each state, there are six possible actions:
 
+
 Move South, East, North, or West
 Pickup a passenger
 Drop off a passenger
